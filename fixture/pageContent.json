@@ -1,0 +1,16 @@
+{
+  "createAccount": [
+    {
+      "password": "mani888",
+      "firstName": "AR",
+      "lastName": "Mani",
+      "companyName": "Sprint syneregy",
+      "address1": "House 220 Block#28 Sargodha",
+      "address2": "House 220 Block#28 Sargodha",
+      "state": "Punjab",
+      "city": "Sargodha",
+      "zipCode": "40100",
+      "mobileNumber": "+923128300176"
+    }
+  ]
+}
